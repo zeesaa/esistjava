@@ -24,8 +24,7 @@ public class MathOperations{
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // User input
+        
         System.out.print("Enter the first number: ");
         int a = scanner.nextInt();
         System.out.print("Enter the second number: ");
